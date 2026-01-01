@@ -109,20 +109,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome! Feel free to submit a Pull Request.
 
----
 
-## 📧 Contact
-
-GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-
----
 ```
 01110101 01101110 01100011 01101111 01110110 01100101 01110010
 ```
 ```
 
----
-
-## **GitHub Topics/Tags (add to your repo):**
-```
-python tkinter cybersecurity threat-intelligence ip-lookup abuseipdb shodan nmap osint security-tools reconnaissance infosec
