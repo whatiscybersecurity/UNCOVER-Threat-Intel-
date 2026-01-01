@@ -112,7 +112,4 @@ Contributions are welcome! Feel free to submit a Pull Request.
 
 
 ```
-01110101 01101110 01100011 01101111 01110110 01100101 01110010
-```
-```
 
