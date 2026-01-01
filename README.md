@@ -27,7 +27,8 @@ A modern, feature-rich GUI application for IP address reconnaissance and threat 
 ---
 
 ## 📸 Screenshots
-<video controls src="Observer GIF.mp4" title="Title"></video>
+![Observer](https://github.com/user-attachments/assets/84cf57a6-dc69-4e24-a58e-5a1bf8bc237b)
+
 ---
 
 ## 🚀 Installation
